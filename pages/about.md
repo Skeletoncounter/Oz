@@ -18,5 +18,10 @@ The Oz books initially by the author L. Frank Baum are touchstones of childrens 
 
 There are forty books considered canon by many fans of the series known as the famous forty. 14 of these were written by L. Frank Baum before his death in 1919, with more written by authors including Ruth Plumly Thompson, John R. Neill, Jack Snow, Rachel R.C. Payes, and Eloise Jarvis McGraw with assistance from Lauren Lynn McGraw. Of the forty, twenty-nine have entered the public domain as of 2024, with another, Jack Pumpkinhead of Oz, set to enter the public domain as of January 1, 2025. While the first novel is unquestionably the most popular to take from for other media, the other novels offer much to those who wish to delve further than the typical adaptation.!
 
+## A Note Regarding the Content of Some of the Texts Collected
+
+The works collected here were all originally published between the years 1900 and 1949. As such, some of them contain ethnic and racial stereotypes that were common in American society at the time of publication. This is not to excuse these elements, but to ensure that the users of this collection are aware of the harmful depictions contained in a few of the texts.  
+
+
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
 {% include cb/about_the_about.md %} 
