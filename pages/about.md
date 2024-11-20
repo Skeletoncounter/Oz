@@ -12,12 +12,11 @@ credits: true
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
-## About the Collection
+## About the Oz Series and the Famous Forty
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+The Oz books initially by the author L. Frank Baum are touchstones of childrens literature which chronical the fictional happenings of the mythical Land of Oz. The first entry 'The Wonderful Wizard of Oz' is the most well known and most frequently adapted. In part, this is because of it's long history of beloved adaptations such as the 1939 film 'The Wizard of Oz'. The other major factor is the availability of the material. L Frank Baum's first book in the series entered the public domain in 1956 and for nearly 70 years has been free to adapt or take pieces from to be used in all sorts of media, from television shows such as Supernatural, to video games such as the recent Lies of P.
 
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
+There are forty books considered canon by many fans of the series known as the famous forty. 14 of these were written by L. Frank Baum before his death in 1919, with more written by authors including Ruth Plumly Thompson, John R. Neill, Jack Snow, Rachel R.C. Payes, and Eloise Jarvis McGraw with assistance from Lauren Lynn McGraw. Of the forty, twenty-nine have entered the public domain as of 2024, with another, Jack Pumpkinhead of Oz, set to enter the public domain as of January 1, 2025. While the first novel is unquestionably the most popular to take from for other media, the other novels offer much to those who wish to delve further than the typical adaptation.
 
 The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
 
