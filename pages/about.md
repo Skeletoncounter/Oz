@@ -33,7 +33,3 @@ There are forty books considered canon by many fans of the series known as the f
 Special thanks to the Internet Archive & Project Gutenburg for orignally hosting these texts to be used free of charge, all items have links to their original host, where they can often be read in an even high quality. 
 
 This project is planned to be updated as further texts enter the public domain. 
-
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
