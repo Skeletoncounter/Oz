@@ -1,17 +1,19 @@
 field,display_name,browse_link,external_link
 title,Title,
-creator,Creator,
-date,Date Created,
+creator,Author,
+date,Date of Publication,
+illustrator,Illustrator
+publisher,Publisher
 description,Description,
 subject,Subjects,true
 location,Location
-latitude,Latitude
+language,Language
 longitude,Longitude
 source,Source
 identifier,Source Identifier,,
 type,Type,
 format,Format,
-rights,Rights,
+rights,Rights and Date of Entry into Public Domain,
 chapter-listings,Chapters
 rightsstatement,Rights Statement,,true
 
