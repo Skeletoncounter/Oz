@@ -12,3 +12,5 @@ cloud-fields: site.data.theme.subjects-fields
 
 Use this word cloud visualization to browse terms and subjects.
 Word size is determined by frequency and all words link to a corresponding collection search.
+
+Subjects available here include: characters, authors, and both fictional and real world locations in which the novels take place.
